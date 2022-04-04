@@ -31,7 +31,7 @@ const App = () => {
 
     return(
         <div className="app">
-            <a href="http://localhost:3000/"><h1>MovieFlix</h1></a>
+            <a href="https://bqureshi94.github.io/Movieflix/"><h1>MovieFlix</h1></a>
 
             <div className="search">
                 <input
